@@ -16,7 +16,7 @@ This is a **paid-only product** offering:
 
 ---
 
-## Core Modules
+## Core Modules 
 
 - Account Registration: Efficient and fast signup with proxy rotation  
 - Verification: Automatic confirmation of emails  
